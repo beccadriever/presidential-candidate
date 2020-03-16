@@ -1,4 +1,4 @@
-# presidential-candidate
+# Databasing for & Applying Analytics to a Presidential Campaign
 Code and reports about creating a database for a presidential campaign as well as performing advanced analytics on the obtained information.
 
 # Database development README:
@@ -36,4 +36,8 @@ Code and reports about creating a database for a presidential campaign as well a
   - Navigates to New York Times article that has counts of delegate wins in each primary state for Joe Biden and Bernie Sanders
   - Gets from table state name, number of delegates that went to Biden, number of delegates that went to Sanders, and if Biden or Sanders were officially declared the “winner” of the state
   - Converts this information into a dictionary for easy input into MongoDB
+  
+## Campaign Contributions
+  - Uses downloaded csv of all individual contributions to candidates running for 2020 Presidential candidacy from the FEC
+  - Converts csv file to dictionary for easy import into MongoDB
 
