@@ -41,3 +41,5 @@ Code and reports about creating a database for a presidential campaign as well a
   - Uses downloaded csv of all individual contributions to candidates running for 2020 Presidential candidacy from the FEC
   - Converts csv file to dictionary for easy import into MongoDB
 
+## Data Dump MongoDB
+  - Puts all information into MongoDB collections
