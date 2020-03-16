@@ -1,5 +1,5 @@
 # Databasing for & Applying Analytics to a Presidential Campaign
-Code and reports about creating a database for a presidential campaign as well as performing advanced analytics on the obtained information.
+Code and reports about creating a database for a presidential campaign as well as performing advanced analytics on the obtained information. To simply read the overviews on our project and results, check out the pdf files "Databasing Write-Up" and "Analysis Write-Up".
 
 # Database development README:
 ## NYT Archive API
